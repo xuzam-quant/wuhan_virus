@@ -1,0 +1,5 @@
+https://www.kaggle.com/jihyeseo/word2vec-gensim-play-look-for-similar-words
+
+https://stackoverflow.com/questions/57882417/is-it-possible-to-use-google-bert-to-calculate-similarity-between-two-textual-do
+
+https://drive.google.com/drive/folders/13OGOun4RdU4lHhxKWWe9fDJmL0StDKH2
